@@ -160,7 +160,7 @@ function init() {
 
 function enable() {
     _indicator = new Indicator();
-    Main.panel.statusArea.aggregateMenu.menu.addMenuItem(this._indicator.menu, 2);
+    Main.panel.statusArea.quickSettings.menu.addMenuItem(this._indicator.menu, 2);
 }
 
 function disable() {
