@@ -13,7 +13,6 @@ This extension adds a third slider below the sound and brightness sliders in the
 
 ## Changelog
 
-### v5
+### v5.1
 
- - Fixed compatibility with ubuntu
- - better logging
+ - Work with the GNOME 44 quick settings menu
