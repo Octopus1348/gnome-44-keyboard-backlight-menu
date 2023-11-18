@@ -1,3 +1,5 @@
+# This project is dead
+At least this fork. GNOME 45 already has a backlight controller, so this is not needed, I will not update it anymore.
 # Keyboard Backlight slider for gnome
 
 Set the keyboard backlight brightness with a slider in gnome shell's system menu.
